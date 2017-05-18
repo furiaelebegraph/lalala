@@ -1,0 +1,56 @@
+[31-Oct-2016 12:07:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 12:07:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 12:07:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 12:07:42 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 12:39:30 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 12:39:30 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 12:39:30 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 12:39:30 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 12:40:21 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 12:40:21 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 12:40:21 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 12:40:21 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:18:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:18:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:18:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:18:05 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:24:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:24:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:24:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:24:58 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:02 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:02 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:02 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:02 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:05 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:06 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:06 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:15 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:15 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:15 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:15 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:18 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:18 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:18 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:18 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:40 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:40 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:41 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:41 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:42 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 33
+[31-Oct-2016 13:25:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 35
+[31-Oct-2016 13:25:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45
+[31-Oct-2016 13:25:42 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/gtofashi/public_html/2016/admin/incluir/class_mysqli.php on line 45

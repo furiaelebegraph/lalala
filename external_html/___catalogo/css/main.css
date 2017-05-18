@@ -1,0 +1,126 @@
+@import url(../../../fonts/intro/stylesheet.css);
+
+.header_cont {
+    margin-top: 110px;
+}
+.header_cont h1 {
+    background: rgba(0, 0, 0, 0) url("../img/ornamento.png") no-repeat scroll center bottom;
+    font-family: Palatino,Palatino Linotype,Georgia,Times,Times New Roman,serif;
+    font-size: 30px;
+    padding-bottom: 31px;
+    text-align: center;
+}
+.header_cont h2 {
+    font-family: Palatino,Palatino Linotype,Georgia,Times,Times New Roman,serif;
+    font-size: 22px;
+    text-align: center;
+}
+.header_cont p {
+    font-family: Palatino,Palatino Linotype,Georgia,Times,Times New Roman,serif;
+    font-size: 14px;
+    text-align: center;
+}
+.image_header {
+    display: block;
+    margin-top: -5px;
+    overflow: hidden;
+    position: relative;
+    top: 0;
+}
+.image_header img {
+    width: 100%;
+}
+#main_content div {
+    display: block;
+}
+#main_content li {
+    list-style: outside none none;
+}
+#main_content a {
+    color: brown;
+    text-decoration: none;
+}
+#main_content {
+    display: block;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.clear {
+    clear: both;
+}
+.data-container {
+    overflow: hidden;
+    position: relative;
+}
+.inicio_lista_element, .categoria_lista_element {
+    background: #666 none repeat scroll 0 0;
+    cursor: pointer;
+    float: left;
+    overflow: hidden;
+    padding: 0;
+}
+#seccion_template_inicio {
+    display: none;
+}
+.fondo {
+    left: 0;
+    margin-left: -50px;
+    margin-top: -50px;
+    position: absolute;
+    top: 0;
+    width: 150%;
+    z-index: -1;
+}
+.lateral_list li {
+    position: relative;
+    width: 100%;
+}
+.lateral_list li img {
+    height: 13%;
+    left: 50%;
+    margin-left: -15%;
+    position: relative;
+}
+.btn_colapse img {
+    height: 13%;
+    left: 50%;
+    margin-left: -25%;
+    position: relative;
+}
+
+#menu_template{
+    display: none;
+}
+@media (min-width: 992px) {
+body {
+    background: red none repeat scroll 0 0;
+}
+.panel-heading {
+    left: 50%;
+    margin-left: 20%;
+    overflow: hidden;
+    position: relative;
+    width: 20%;
+}
+.panel-default {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+}
+.collapse.in {
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 70%;
+}
+}
+@media (max-width: 1200px) {
+}
+@media (max-width: 992px) {
+}
+@media (max-width: 768px) {
+}
+@media screen and (max-width: 480px) {
+}

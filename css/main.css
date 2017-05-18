@@ -1,0 +1,341 @@
+body {
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+.texto_sombra {
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.9);
+}
+.al_cien {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+#link_lider{
+    text-decoration: none;
+}
+#ini_btn {
+    color: white;
+    font-family: Arial Rounded MT Bold;
+    text-align: center;
+}
+.wrapper_rescate {
+    height: 400px;
+    overflow-x: hidden;
+    position: absolute;
+    width: 800px;
+    overflow-y: hidden;
+}
+#wrapper_cont_rescate {
+    height: 400px;
+    overflow-x: hidden;
+    position: absolute;
+    width: 800px;
+}
+#wrapper_cont_lider {
+    height: 400px;
+    overflow-x: hidden;
+    position: absolute;
+    width: 800px;
+}
+#dropMenuButton {
+    float: none;
+}
+#seccion_nombre {
+    padding: 0;
+}
+#inicio_word {
+    color: white;
+}
+#mini_placa_azul {
+    background-color: #69635f;
+    display: block;
+    height: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -8px;
+    position: relative;
+    width: 141px;
+}
+#logo_lider {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    position: relative;
+}
+#presi_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 91px;
+    position: relative;
+}
+#centr_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    position: relative;
+    width: 100%;
+    z-index: 2147483647;
+}
+#contenido_portada {
+    padding: 0;
+}
+.lider_header {
+    color: white;
+    display: inline;
+    font-family: Arial Rounded MT Bold;
+    font-size: 14px;
+    padding: 8px;
+    position: relative;
+}
+#contenido_nombre {
+    padding: 0;
+}
+#pleca_azul {
+    background-color: #69635f;
+    height: 30px;
+    width: 75%;
+}
+.pleca_azul_lider {
+    background-color: #1d71b8;
+    height: 30px;
+    width: 100%;
+}
+#inicio_portada {
+    background-color: #f59c14;
+    display: block;
+    height: 400px;
+    padding: 0;
+    position: relative;
+}
+#presidente_portada {
+    background-color: #001f5b;
+    display: block;
+    height: 320px;
+    margin-top: -30px;
+    padding: 0;
+    position: relative;
+}
+#contenido_seccion_lider {
+    background-image: url("../images/back_lider.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 400px;
+    padding: 0;
+    width: 805px;
+}
+#contenido_seccion_entorno {
+    background-image: url("../images/back_entorno.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 101% auto;
+    height: 400px;
+    padding: 0;
+    width: 800px;
+}
+#contenido_seccion_personal {
+    background-image: url("../images/back_personal.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 400px;
+    padding: 0;
+    width: 800px;
+}
+#contenido_seccion_productiva {
+    background-image: url("../images/back_productiva.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 400px;
+    padding: 0;
+    width: 800px;
+}
+#contenido_seccion_plan {
+    background-image: url("../images/back_plan.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 400px;
+    padding: 0;
+    width: 800px;
+}
+#contenido_seccion_social {
+    background-image: url("../images/back_social.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 400px;
+    padding: 0;
+    width: 800px;
+}
+#imagen_lider_sec {
+    padding: 0;
+}
+#area_pregunta_lider {
+    margin-top: 38px;
+    padding-left: 12px;
+}
+#plan_vida {
+}
+#personal {
+}
+#social {
+}
+#productiva {
+}
+#entorno {
+    background-color: #7ad122;
+}
+#lider_fondo {
+    display: block;
+    margin-left: 280px;
+    margin-top: 170px;
+    position: absolute;
+}
+#el_cuerpo {
+    background-color: black;
+    background-position: 30% 40%;
+    background-repeat: no-repeat;
+    background-size: 800px auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.esf_ent_tit {
+}
+.pregunta_subtit {
+    color: white;
+    font-family: Arial Rounded MT Bold;
+    font-size: 21px;
+    text-align: center;
+}
+.titulo_pregunta {
+    color: white;
+    font-family: Arial Rounded MT Bold;
+    font-size: 32px;
+    margin-left: -30px;
+    margin-top: 10px;
+}
+#pie_imagen_lider_personal{
+    background-color: #00853a;
+    height: 83px;
+    margin-top: 0;
+    width: 233px;
+}
+#pie_imagen_lider_productiva{
+    background-color: rgb(0,98,163);
+    height: 83px;
+    margin-top: 0;
+    width: 233px;
+}
+#pie_imagen_lider_plan{
+    background-color: rgb(255,237,0);
+    height: 83px;
+    margin-top: 0;
+    width: 233px;
+}
+#pie_imagen_lider_social{
+    background-color: #95c11e;
+    height: 83px;
+    margin-top: 0;
+    width: 233px;
+}
+#pie_imagen_lider_entorno {
+    background-color: rgb(225,30,132);
+    height: 83px;
+    margin-top: 0;
+    width: 233px;
+}
+#pie_img_lider_intro {
+    background-color: rgb(0,98,163);
+    height: 83px;
+    margin-top: 0;
+    width: 233px;
+}
+#pie_imagen_lider {
+    background-color: #0245c8;
+    height: 83px;
+    margin-top: 0;
+    width: 233px;
+}
+.pregunta_icono {
+    display: block;
+    float: right;
+    position: relative;
+}
+.pregunta_entorno {
+    margin-top: 120px;
+}
+#azul {
+    color: #1976d3;
+}
+#azul_bajito {
+    color: #17e1ff;
+    font-size: 15px;
+}
+#lograr {
+    font-size: 30px;
+}
+.pregunta_plan {
+    margin-top: 80px;
+}
+.iniciar_act {
+    border-left: 6px solid #0062A3;
+    color: white;
+    font-family: Arial Rounded MT Bold;
+    font-size: 15px;
+    padding: 5px;
+}
+#entorno_pleca {
+    border-left: 6px solid #e11e84;
+}
+#social_pleca {
+    border-left: 6px solid #94C11E;
+}
+#personal_pleca{
+    border-left: 6px solid #00853a;
+}
+#plan_pleca{
+    border-left: 6px solid rgb(255,237,0);
+}
+.pregunta_titulo {
+    color: white;
+    font-family: Arial Rounded MT Bold;
+    font-size: 20px;
+}
+.sub_parr_pregunta {
+    color: white;
+    font-family: Arial;
+}
+#imagen_prin_lider {
+    height: 316px;
+    width: 233px;
+}
+#pie_img_lider {
+    display: block;
+    position: relative;
+}
+#texto_pregunta {
+    margin-top: 50px;
+}
+#preg_icon {
+    margin-top: -23px;
+    right: 20px;
+}
+#btn_inicio_app {
+    color: white;
+}
+@media (max-width: 1200px) {
+}
+@media (max-width: 992px) {
+}
+@media (max-width: 768px) {
+}
+@media screen and (max-width: 480px) {
+}
